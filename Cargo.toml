@@ -1,0 +1,7 @@
+[package]
+name = "iamlib"
+version = "0.1.0"
+authors = ["wynne <wynne@protonmail.com>"]
+
+[dependencies]
+rand = "0.3"
